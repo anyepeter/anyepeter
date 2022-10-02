@@ -3,11 +3,12 @@
 <br>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=28&duration=3000&pause=500&center=true&vCenter=true&width=998&height=53&lines=I'm+Chendi...;A+frontend+developer;Enroll+at+microverse;Coding+alongside+with+100Devs" alt="Typing SVG" /></a>
 
-<img width="300" align="right" alt="coding" src="/gitimage.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anyepeter" alt="anyepeter" /></a> </p>
-
+<img width="400" align="right" alt="coding" src="/gitimage.gif">
 <p align="left"> <a href="https://twitter.com/apcode" target="blank"><img src="https://img.shields.io/twitter/follow/apcode?logo=twitter&style=for-the-badge" alt="apcode" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript, react Ruby on rails Html CSS**
 

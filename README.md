@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anyepeter" alt="anyepeter" /></a> </p>
 <img width="400" align="right" alt="coding" src="/gitimage.gif">
-<p align="left"> <a href="https://twitter.com/apcode" target="blank"><img src="https://img.shields.io/twitter/follow/apcode?logo=twitter&style=for-the-badge" alt="apcode" /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/anye_peter" target="blank"><img src="https://img.shields.io/twitter/follow/apcode?logo=twitter&style=for-the-badge" alt="apcode" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, react Ruby on rails Html CSS**
 

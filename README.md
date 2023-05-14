@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, react Ruby on rails Html CSS**
 
-- 👨‍💻 All of my projects are available at [https://anyepeter.github.io/Portfolio-template/](https://anyepeter.github.io/Portfolio-template/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://peter-portfolio-chendi.netlify.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@apcode](https://hashnode.com/@apcode)
 

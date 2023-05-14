@@ -2,7 +2,6 @@
 <br>
 <br>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto&size=28&duration=3000&pause=500&center=true&vCenter=true&width=998&height=53&lines=I'm+Chendi...;A+fullstack+developer;Enroll+at+microverse;Coding+alongside+with+100Devs" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anyepeter&label=Profile%20views&color=0e75b6&style=flat" alt="anyepeter" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anyepeter" alt="anyepeter" /></a> </p>
 <img width="400" align="right" alt="coding" src="/gitimage.gif">
